@@ -1,6 +1,7 @@
 # InventoryManagementSystem
 Inventory is the goods or materials a business intends to sell to customers for profit. Inventory management, a critical element of the supply chain, is the tracking of inventory from manufacturers to warehouses and from these facilities to a point of sale. The goal of inventory management is to have the right products in the right place at the right time. This requires inventory visibility — knowing when to order, how much to order and where to store stock. 
-**The basic steps of inventory management include:**
+
+### **The basic steps of inventory management include:**
  - Purchasing inventory: Ready-to-sell goods are purchased and delivered to the warehouse or directly to the point of sale.
  - Storing inventory: Inventory is stored until needed. Goods or materials are transferred across your fulfillment network until ready for shipment.
  - Profiting from inventory: The amount of product for sale is controlled. Finished goods are pulled to fulfill orders. Products are shipped to customers.
