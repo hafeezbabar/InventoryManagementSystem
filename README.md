@@ -28,7 +28,9 @@ Inventory is the goods or materials a business intends to sell to customers for 
 ![image](https://github.com/hafeezbabar/InventoryManagementSystem/assets/55141069/d99a32d1-e7fe-4ef4-8745-328bfb99ce51)
 
 ### 2. Activate the created environment
+
 **conda activate venv/**
+
 ![image](https://github.com/hafeezbabar/InventoryManagementSystem/assets/55141069/ff3ee07c-2006-4e57-8bc1-0f3f285a8d31)
 
 ### 3. Install the required libraries for project as saved file requirements.txt
