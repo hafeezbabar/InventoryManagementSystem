@@ -67,3 +67,12 @@ Inventory is the goods or materials a business intends to sell to customers for 
 #### **insert value into users**
 ![image](https://github.com/hafeezbabar/InventoryManagementSystem/assets/55141069/b7d6b880-34cf-4625-9f26-ca910aef4de6)
 
+
+### Flask  app.py file
+
+*** Screenshots ***
+![image](https://github.com/hafeezbabar/InventoryManagementSystem/assets/55141069/4b94e9c0-c221-4e98-82e8-4b9ddb88eb22)
+
+![image](https://github.com/hafeezbabar/InventoryManagementSystem/assets/55141069/328c0685-d0d6-49a3-8d9d-0c30b07b31e8)
+
+![image](https://github.com/hafeezbabar/InventoryManagementSystem/assets/55141069/05bad694-7756-43cb-a06c-2a2c5853d639)
